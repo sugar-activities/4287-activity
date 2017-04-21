@@ -1,0 +1,16 @@
+encoding: UTF-8
+plot.py
+gtkplotactivity.py
+plotter/view/__init__.py
+plotter/view/equation.py
+plotter/view/puzzletree/nodes/__init__.py
+plotter/view/puzzletree/nodes/absolutevalue.py
+plotter/view/puzzletree/nodes/addition.py
+plotter/view/puzzletree/nodes/composition.py
+plotter/view/puzzletree/nodes/constant.py
+plotter/view/puzzletree/nodes/e.py
+plotter/view/puzzletree/nodes/exponentiation.py
+plotter/view/puzzletree/nodes/identity.py
+plotter/view/puzzletree/nodes/multiplication.py
+plotter/view/puzzletree/nodes/pi.py
+plotter/view/puzzletree/nodes/sine.py

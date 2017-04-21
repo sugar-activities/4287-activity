@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="50"
+   viewBox="0 0 25 50"
+   id="svg2"
+   xml:space="preserve"><defs
+     id="defs16" /><g
+     transform="translate(0,-5)"
+     id="stock-xo_1_"
+     style="display:block">
+	<defs
+   id="defs5">
+		<mask
+   id="Mask">
+			<path
+   d="M 3,3 53,3 53,53 3,53 z"
+   id="path8"
+   style="fill:#ffffff;stroke:#ffffff;stroke-width:3.5" />
+			<text
+   x="3"
+   y="35"
+   id="text10"
+   style="font-size:19px;font-weight:bold;fill:#000000;stroke:none;font-family:Bitstream Vera Sans">cosh</text>
+
+
+
+		</mask>
+	</defs>
+	
+<text
+   x="-20.419922"
+   y="42.539062"
+   transform="scale(-1,1)"
+   id="text2820"
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+     x="-20.419922"
+     y="42.539062"
+     id="tspan2822">(</tspan></text>
+
+</g></svg>

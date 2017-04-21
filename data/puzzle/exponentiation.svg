@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   id="svg2"
+   xml:space="preserve"><defs
+     id="defs16" /><g
+     transform="translate(0,-5)"
+     id="stock-xo_1_"
+     style="display:block">
+	<defs
+   id="defs5">
+		<mask
+   id="Mask">
+			<path
+   d="M 3,3 53,3 53,53 3,53 z"
+   id="path8"
+   style="fill:#ffffff;stroke:#ffffff;stroke-width:3.5" />
+			<text
+   x="3"
+   y="35"
+   id="text10"
+   style="font-size:19px;font-weight:bold;fill:#000000;stroke:none;font-family:Bitstream Vera Sans">cosh</text>
+
+
+
+		</mask>
+	</defs>
+	
+<path
+   d="m 18.369002,25.414333 -8.6202995,8.620298 c -0.734714,0.734714 -0.734714,1.917685 0,2.652399 l 3.9786005,3.9786 c 0.734715,0.734714 1.917685,0.734714 2.652399,0 L 25,32.045332 33.620298,40.66563 c 0.734714,0.734714 1.917685,0.734714 2.652399,0 l 3.9786,-3.9786 c 0.734714,-0.734714 0.734714,-1.917685 0,-2.652399 L 31.631,25.414333 25.000001,18.783334 18.369002,25.414333 z"
+   id="rect2826"
+   style="stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none" /></g></svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   id="svg2"
+   xml:space="preserve"><defs
+     id="defs16" /><g
+     transform="translate(0,-5)"
+     id="stock-xo_1_"
+     style="display:block">
+	<defs
+   id="defs5">
+		<mask
+   id="Mask">
+			<path
+   d="M 3,3 53,3 53,53 3,53 z"
+   id="path8"
+   style="fill:#ffffff;stroke:#ffffff;stroke-width:3.5" />
+			<text
+   x="3"
+   y="35"
+   id="text10"
+   style="font-size:19px;font-weight:bold;fill:#000000;stroke:none;font-family:Bitstream Vera Sans">cosh</text>
+
+
+
+
+		</mask>
+	</defs>
+	
+<rect
+   width="41.25"
+   height="6.9915257"
+   ry="3.4957628"
+   x="4.375"
+   y="48.008476"
+   id="rect2818"
+   style="fill:#ff0000;fill-opacity:1;stroke:none" /><path
+   d="m 27.499999,8.7500002 c 0.72999,2.1899698 -5.7779,4.3826448 -6.474557,6.5834448 -0.696658,2.2008 3.364061,7.738942 1.506856,9.109942 -1.857206,1.370999 -5.953613,-4.140798 -8.261977,-4.123274 -2.308365,0.01752 -6.320619,5.590877 -8.1984252,4.248232 C 4.1940896,23.2257 8.170261,17.626546 7.4402711,15.436576 6.7102811,13.246607 0.16985193,11.152987 0.8665096,8.9521867 1.5631673,6.7513866 8.1169831,8.8027168 9.9741889,7.4317172 11.831395,6.0607177 11.801442,-0.80656423 14.109806,-0.82408804 c 2.308364,-0.0175238 2.382674,6.84942134 4.26048,8.19206684 1.877806,1.3426454 8.399723,-0.8079484 9.129713,1.3820214 z"
+   transform="translate(10.814164,18.023524)"
+   id="path3592"
+   style="fill:#ff0000;fill-opacity:1;stroke:none" /></g></svg>

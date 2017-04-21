@@ -1,0 +1,9 @@
+[Activity]
+name = Plot
+activity_version = 6
+host_version = 1
+bundle_id = edu.wisc.cs.nest.PlotActivity
+license = GPLv2+
+icon = activity-plot
+class = plot.PlotActivity
+

@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-13 22:05-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Plot"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plot.py:30
+msgid "Edit"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:49
+msgid "_File"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:53
+msgid "_Open"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:57
+msgid "_Save"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:62
+msgid "_Quit"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:68
+msgid "_Edit"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:72
+msgid "_Undo"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:76
+msgid "_Redo"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:81
+msgid "_Copy"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:85
+msgid "_Paste"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:110
+msgid "Go!"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:116
+msgid "x min."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:120
+msgid "x max."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:160
+msgid "Save.."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/gtkplotactivity.py:191
+msgid "Open.."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/equation.py:22
+msgid "f(x) ="
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/__init__.py:210
+msgid "To Python"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/composition.py:13
+msgid "Function Composition"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/composition.py:14
+msgid ""
+"Combines two functions by applying the result of the right function to the "
+"left.\n"
+"For example, (x ** 2) ∘ (x + 1) = (x + 1) ** 2."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/sine.py:13
+msgid "Sine"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/sine.py:14
+msgid ""
+"Returns the ratio of the length of a side opposite an acute angle in a right "
+"trianale to the length of the hypotenuse.\n"
+"For example, sin(pi / 4) = 1 / sqrt(2)"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/pi.py:14
+msgid "π"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/pi.py:15
+msgid ""
+"Returns the ratio of a circle's circumference to its diameter.\n"
+"π (pi) is approximately 3.14159"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/identity.py:11
+msgid "Identity"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/identity.py:12
+msgid ""
+"Returns whatever was input to it.\n"
+"For example, f(x) = x."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/constant.py:25
+msgid "Constant"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/constant.py:26
+msgid ""
+"Returns the same value, ignoring the input.\n"
+"For example, f(x) = 2."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/constant.py:30
+msgid "Value"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/absolutevalue.py:11
+msgid "Absolute Value"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/absolutevalue.py:12
+msgid ""
+"Returns the distance a value is from zero.\n"
+"For example, f(-3) = 3 and f(3) = 3."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/__init__.py:42
+msgid "Operators"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/__init__.py:43
+msgid "Functions"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/__init__.py:44
+msgid "Constants"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/e.py:14
+msgid "e"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/e.py:15
+msgid ""
+"e is an irrational number such that the derivative of f(x) = e ** x is f"
+"(x).\n"
+"e is approximately 2.71828"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/multiplication.py:12
+msgid "Multiplication"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/multiplication.py:13
+msgid ""
+"Combines two objects by adding the left one for the right number of times.\n"
+"For example, x * 3 = x + x + x."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/exponentiation.py:12
+msgid "Exponentiation"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/exponentiation.py:13
+msgid ""
+"Combines two objects by multiplying the left one for the right number of "
+"times.\n"
+"For example, x ** 2 = x * x."
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/addition.py:12
+msgid "Addition"
+msgstr ""
+
+#: /home/tswast/Desktop/plot-trunk/plotter/view/puzzletree/nodes/addition.py:13
+msgid ""
+"Combines two objects together into a larger collection. For example, x + x = "
+"2x."
+msgstr ""
